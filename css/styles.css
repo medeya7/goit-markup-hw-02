@@ -172,6 +172,8 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
+    background-color: var(--logo-color);  
+    color: var(--white);
    
 
  }
@@ -189,15 +191,12 @@ body {
 
 }
 
-.img-list-team {
-    background-color: var(--white);
 
-}
 
 .img-team-item {
     width: 264px;
+    background-color: var(--white);
     
-
 }
 
 
