@@ -231,16 +231,16 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
-    color: var(--white);
-    background: var(--ocean);
+    color: var(--logo-color);
+    background: var(--cloud);
 }
 
 .list-btn:hover,
 .list-btn:focus {
     background: var(--ocean);
     color: var(--white);
-    background: var(--cloud);
-    color: var(--logo-color);
+    background: var(--ocean);
+    color: var(--white);
 
 }
 
